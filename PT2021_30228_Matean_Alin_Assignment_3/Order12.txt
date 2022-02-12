@@ -1,0 +1,5 @@
+Comanda: 12
+Nume client: clientTest
+Produs: produsTest
+Cantitate: 30
+Total: 387.0

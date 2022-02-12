@@ -1,0 +1,5 @@
+Comanda: 10
+Nume client: mihai
+Produs: produs6
+Cantitate: 12
+Total: 1200.0

@@ -1,0 +1,5 @@
+Comanda: 11
+Nume client: client14
+Produs: produs3
+Cantitate: 2
+Total: 23.8

@@ -1,0 +1,4 @@
+Comanda: 9
+Nume client: client1
+Produs: produs5
+Total: 246.0
