@@ -1,0 +1,48 @@
+Order id: 6, client id: 5, date: Mon Jun 21 19:09:50 EEST 2021, price: 177
+Items:Red Wine–Braised Short Ribs 
+Seared Scallops with Brussels Sprouts and Bacon 
+Boneless Leg of Lamb Stuffed with Swiss Chard and Feta 
+________________________________
+Order id: 10, client id: 2, date: Tue Jun 22 17:59:58 EEST 2021, price: 321
+Items:Grilled Lamb Chops with Porcini Mustard 
+compuscompositePear-Cranberry Mincemeat Lattice Pie   Braised Duck Legs with Shallots and Parsnips  Pumpkin Chiffon Pie with Gingersnap Pecan Crust  Indonesian Spice Cake  
+Vanilla-Buttermilk Cake With Raspberries and Orange Cream-Cheese Frosting 
+Pecan Currant Bread 
+________________________________
+Order id: 1, client id: 1, date: Mon Jun 21 19:07:13 EEST 2021, price: 230
+Items:Smoked Caviar and Hummus on Pita Toasts 
+Coriander-Herb Spice Rub 
+Pickled Vegetable Lettuce Cups 
+________________________________
+Order id: 11, client id: 1, date: Wed Jun 23 16:53:18 EEST 2021, price: 0
+Items:________________________________
+Order id: 2, client id: 2, date: Mon Jun 21 19:07:38 EEST 2021, price: 510
+Items:Bloody Mary Ice Pops 
+compuscompositePear-Cranberry Mincemeat Lattice Pie   Braised Duck Legs with Shallots and Parsnips  Pumpkin Chiffon Pie with Gingersnap Pecan Crust  Indonesian Spice Cake  
+Garlic-Curry Chicken Thighs With Yogurt Sauce 
+Chicken with Figs in Ras-el-Hanout and Couscous 
+Les Merveilles 
+________________________________
+Order id: 3, client id: 1, date: Mon Jun 21 19:07:56 EEST 2021, price: 162
+Items:Fresh Corn Tortillas 
+Cilantro-Tomato Salsa 
+Coriander-Herb Spice Rub 
+________________________________
+Order id: 5, client id: 5, date: Mon Jun 21 19:09:34 EEST 2021, price: 448
+Items:Caramelized Apple and Pear Pie 
+Duck Legs Confit Cooked in a Pouch (“Confit” de Canard en Sous Vide) 
+Tennessee Williams's Lemon Icebox Pie 
+Sauteed Pork Chops with Sweet-and-Sour Red Cabbage 
+Pizza 6: Pan-fried Hawaiian Pizza 
+Panfried Chicken Breasts with Oregano Garlic Butter 
+________________________________
+Order id: 4, client id: 5, date: Mon Jun 21 19:09:24 EEST 2021, price: 597
+Items:Fresh Corn Tortillas 
+Quick & Spicy Asian Pickles 
+Spicy Pickled Shallots 
+Tortellini in Parmesan Broth 
+Warm Sweet-Potato Pudding with Apples and Chestnuts 
+Scallop Chowder with Bacon 
+compuscompositePear-Cranberry Mincemeat Lattice Pie   Braised Duck Legs with Shallots and Parsnips  Pumpkin Chiffon Pie with Gingersnap Pecan Crust  Indonesian Spice Cake  
+Braised Short Ribs with Red Wine Gravy 
+________________________________
